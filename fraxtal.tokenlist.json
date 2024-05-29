@@ -29,10 +29,10 @@
         {
             "address": "0xfc00000000000000000000000000000000000001",
             "name": "Frax",
-            "symbol": "FRX",
+            "symbol": "FRAX",
             "chainId": 252,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/main/assets/asset_FRX.png"
+            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/main/assets/asset_FRAX.png"
         },
         {
             "address": "0xfc00000000000000000000000000000000000002",
@@ -118,6 +118,6 @@
     "version": {
         "major": 1,
         "minor": 1,
-        "patch": 0
+        "patch": 1
     }
 }
