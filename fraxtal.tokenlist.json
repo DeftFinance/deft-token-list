@@ -1,6 +1,6 @@
 {
     "name": "Frax Finance",
-    "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/master/assets/FRAX.svg",
+    "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/main/assets/FRAX.svg",
     "keywords": [
         "fraxtal",
         "dex",
@@ -16,7 +16,7 @@
             "symbol": "FPI",
             "chainId": 252,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/master/assets/asset_FPI.png"
+            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/main/assets/asset_FPI.png"
         },
         {
             "address": "0xfc00000000000000000000000000000000000004",
@@ -24,7 +24,7 @@
             "symbol": "FPIS",
             "chainId": 252,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/master/assets/asset_FPIS.png"
+            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/main/assets/asset_FPIS.png"
         },
         {
             "address": "0xfc00000000000000000000000000000000000001",
@@ -32,7 +32,7 @@
             "symbol": "FRX",
             "chainId": 252,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/master/assets/asset_FRX.png"
+            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/main/assets/asset_FRX.png"
         },
         {
             "address": "0xfc00000000000000000000000000000000000002",
@@ -40,7 +40,7 @@
             "symbol": "FXS",
             "chainId": 252,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/master/assets/asset_FXS.png"
+            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/main/assets/asset_FXS.png"
         },
         {
             "address": "0xfc00000000000000000000000000000000000008",
@@ -48,7 +48,7 @@
             "symbol": "sFRAX",
             "chainId": 252,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/master/assets/asset_sFRAX.png"
+            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/main/assets/asset_sFRAX.png"
         },
         {
             "address": "0xfc00000000000000000000000000000000000005",
@@ -56,7 +56,7 @@
             "symbol": "sfrxETH",
             "chainId": 252,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/master/assets/asset_sfrxETH.png"
+            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/main/assets/asset_sfrxETH.png"
         },
         {
             "address": "0xfc00000000000000000000000000000000000006",
@@ -64,7 +64,7 @@
             "symbol": "wfrxETH",
             "chainId": 252,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/master/assets/asset_wfrxETH.png"
+            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/main/assets/asset_wfrxETH.png"
         },
         {
             "address": "0xfc00000000000000000000000000000000000003",
@@ -72,7 +72,7 @@
             "symbol": "FPI",
             "chainId": 2522,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/master/assets/asset_FPI.png"
+            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/main/assets/asset_FPI.png"
         },
         {
             "address": "0xfc00000000000000000000000000000000000004",
@@ -80,7 +80,7 @@
             "symbol": "FPIS",
             "chainId": 2522,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/master/assets/asset_FPIS.png"
+            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/main/assets/asset_FPIS.png"
         },
         {
             "address": "0xfc00000000000000000000000000000000000001",
@@ -88,7 +88,7 @@
             "symbol": "FRX",
             "chainId": 2522,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/master/assets/asset_FRX.png"
+            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/main/assets/asset_FRX.png"
         },
         {
             "address": "0xfc00000000000000000000000000000000000002",
@@ -96,7 +96,7 @@
             "symbol": "FXS",
             "chainId": 2522,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/master/assets/asset_FXS.png"
+            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/main/assets/asset_FXS.png"
         },
         {
             "address": "0xfc00000000000000000000000000000000000008",
@@ -104,7 +104,7 @@
             "symbol": "sFRAX",
             "chainId": 2522,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/master/assets/asset_sFRAX.png"
+            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/main/assets/asset_sFRAX.png"
         },
         {
             "address": "0xfc00000000000000000000000000000000000005",
@@ -112,7 +112,7 @@
             "symbol": "sfrxETH",
             "chainId": 2522,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/master/assets/asset_sfrxETH.png"
+            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/main/assets/asset_sfrxETH.png"
         },
         {
             "address": "0xfc00000000000000000000000000000000000006",
@@ -120,7 +120,7 @@
             "symbol": "wfrxETH",
             "chainId": 2522,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/master/assets/asset_wfrxETH.png"
+            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/main/assets/asset_wfrxETH.png"
         }
     ],
     "version": {
