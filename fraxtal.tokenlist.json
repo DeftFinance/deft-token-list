@@ -99,14 +99,6 @@
             "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/main/assets/asset_FXS.png"
         },
         {
-            "address": "0xfc00000000000000000000000000000000000008",
-            "name": "Staked Frax",
-            "symbol": "sFRAX",
-            "chainId": 2522,
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/main/assets/asset_sFRAX.png"
-        },
-        {
             "address": "0xfc00000000000000000000000000000000000005",
             "name": "Staked Frax Ether",
             "symbol": "sfrxETH",
