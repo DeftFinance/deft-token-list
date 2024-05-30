@@ -1,0 +1,21 @@
+[
+//  Name, Symbol, Decimals, MintCap, MaxSupply (0 == type(uint256).max)
+  ["Frax Price Index", "FPI", 18, 1e4, 0],
+  ["Frax Price Index Share", "FPIS", 18, 1e4, 0],
+  ["Frax", "FRAX", 18, 1e4, 0],
+  ["Frax Share", "FXS", 18, 1e4, 0],
+  ["Staked Frax Ether", "sfrxETH", 18, 1e4, 0],
+  ["Wrapped Frax Ether", "wfrxETH", 18, 1e4, 0],
+  ["Aave Token", "AAVE", 18, 1e4, 0],
+  ["ApeCoin", "APE", 18, 1e4, 0],
+  ["ChainLink Token", "LINK", 18, 1e4, 0],
+  ["Compound", "COMP", 18, 1e4, 0],
+  ["Dai Stablecoin", "DAI", 18, 1e4, 0],
+  ["Graph Token", "GRT", 18, 1e4, 0],
+  ["SHIBA INU", "SHIB", 18, 1e4, 0],
+  ["Synthetix Network Token", "SNX", 18, 1e4, 0],
+  ["Tether USD", "USDT", 6, 1e4, 0],
+  ["Uniswap", "UNI", 18, 1e4, 0],
+  ["USD Coin", "USDC", 6, 1e4, 0],
+  ["Wrapped BTC", "WBTC", 8, 1e3, 0],
+];

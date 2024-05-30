@@ -67,7 +67,7 @@
             "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_wfrxETH.png"
         },
         {
-            "address": "0xfc00000000000000000000000000000000000003",
+            "address": "0x69732229E581B184906BD890bCe904b1C8bD6271",
             "name": "Frax Price Index",
             "symbol": "FPI",
             "chainId": 2522,
@@ -75,7 +75,7 @@
             "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_FPI.png"
         },
         {
-            "address": "0xfc00000000000000000000000000000000000004",
+            "address": "0xacAF3Dd0EFeB5adCB2dd62813919d83D9BE83f61",
             "name": "Frax Price Index Share",
             "symbol": "FPIS",
             "chainId": 2522,
@@ -83,7 +83,7 @@
             "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_FPIS.png"
         },
         {
-            "address": "0xfc00000000000000000000000000000000000001",
+            "address": "0x457b64ee964B62DEB8fD8F0cf007B3BA40Ca7599",
             "name": "Frax",
             "symbol": "FRAX",
             "chainId": 2522,
@@ -91,7 +91,7 @@
             "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_FRAX.png"
         },
         {
-            "address": "0xfc00000000000000000000000000000000000002",
+            "address": "0x8a0f479b4FF743eEb75A0E8622508c4FfD002A10",
             "name": "Frax Share",
             "symbol": "FXS",
             "chainId": 2522,
@@ -99,7 +99,7 @@
             "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_FXS.png"
         },
         {
-            "address": "0xfc00000000000000000000000000000000000005",
+            "address": "0x9e7Cc842C1710F99c0DF9bF2CCfe9CFDA50E3203",
             "name": "Staked Frax Ether",
             "symbol": "sfrxETH",
             "chainId": 2522,
@@ -107,7 +107,7 @@
             "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_sfrxETH.png"
         },
         {
-            "address": "0xfc00000000000000000000000000000000000006",
+            "address": "0xdf426C781FaE46640ea4E99BE1E3B5eaba1A5447",
             "name": "Wrapped Frax Ether",
             "symbol": "wfrxETH",
             "chainId": 2522,
@@ -115,7 +115,7 @@
             "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_wfrxETH.png"
         },
         {
-            "address": "0x454521dBa4eDC174B834210f1c0AbCC5CDb9458c",
+            "address": "0x088701344802dC1c7B4b11C780c1b83eeC5191ff",
             "name": "Aave Token",
             "symbol": "AAVE",
             "chainId": 2522,
@@ -123,7 +123,7 @@
             "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_AAVE.png"
         },
         {
-            "address": "0xD00f90a854024dD82D3DC2DE2936AF2d945Ea206",
+            "address": "0xF24588383A4B684F78a9acFED1A2f55c2e3f0b3f",
             "name": "ApeCoin",
             "symbol": "APE",
             "chainId": 2522,
@@ -131,7 +131,7 @@
             "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_APE.png"
         },
         {
-            "address": "0xfebf644CcEB1c53aC189D9FE93F7B3E2Ef259ddf",
+            "address": "0xD5FAC8c1580E805196d5fC96b677De3F7D4d31eE",
             "name": "ChainLink Token",
             "symbol": "LINK",
             "chainId": 2522,
@@ -139,7 +139,7 @@
             "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_LINK.png"
         },
         {
-            "address": "0xB3a9A30183e1d80d0CDA917D73a8103c5e1EC6F1",
+            "address": "0x5EC60e812969de6a09feA51a3942f44F39032DFB",
             "name": "Compound",
             "symbol": "COMP",
             "chainId": 2522,
@@ -147,7 +147,7 @@
             "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_COMP.png"
         },
         {
-            "address": "0xc1cE9B0a3B9e9a84816e6a7A63716Da41a8fCbBa",
+            "address": "0x8f7449B5D3c064f8Ccca8600996c6a41fb0b1863",
             "name": "Dai Stablecoin",
             "symbol": "DAI",
             "chainId": 2522,
@@ -155,7 +155,7 @@
             "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_DAI.png"
         },
         {
-            "address": "0x6023215Fdbd33DaEe3972a0696d87a204279EF18",
+            "address": "0xBe59DDE3DA45d55a6a915D70245A46827a89f8a7",
             "name": "Graph Token",
             "symbol": "GRT",
             "chainId": 2522,
@@ -163,7 +163,7 @@
             "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_GRT.png"
         },
         {
-            "address": "0xcE2d2b4d5D4BE028D252FF4569F07722F062D4bF",
+            "address": "0x3B255258426841D38141B940A7c9D4f52c1BAA8F",
             "name": "SHIBA INU",
             "symbol": "SHIB",
             "chainId": 2522,
@@ -171,7 +171,7 @@
             "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_SHIB.png"
         },
         {
-            "address": "0x20a49923B325F75150aE6bbC1Fa9f11b746a0971",
+            "address": "0xa8156e98400aeBE2b0b10c19DD2dB59c2c1F236a",
             "name": "Synthetix Network Token",
             "symbol": "SNX",
             "chainId": 2522,
@@ -179,7 +179,7 @@
             "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_SNX.png"
         },
         {
-            "address": "0x0350767a1931328F0d24d9320bDc1BD404522E5b",
+            "address": "0xAB58f1a9f58cc1F2d12e2Ef88C2aaFfd466b4bf9",
             "name": "Tether USD",
             "symbol": "USDT",
             "chainId": 2522,
@@ -187,7 +187,7 @@
             "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_USDT.png"
         },
         {
-            "address": "0xB643bb8D50D978B03B8790e8Ef58e4Eb4d8e7f2D",
+            "address": "0xed0592651Db3118356871f8b6D0594d05C8d385E",
             "name": "Uniswap",
             "symbol": "UNI",
             "chainId": 2522,
@@ -195,7 +195,7 @@
             "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_UNI.png"
         },
         {
-            "address": "0x904C236F8984F52FE10c17AfB09F1640D2477e65",
+            "address": "0x0EEf77c3c08E84Fd7886489889217BA6A005cF5a",
             "name": "USD Coin",
             "symbol": "USDC",
             "chainId": 2522,
@@ -203,7 +203,7 @@
             "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_USDC.png"
         },
         {
-            "address": "0xd1D471943de83Ace61cD99e68428783b90b2fc89",
+            "address": "0xc12Ee52aB87dC4Ac0DA46cAA65259D4C2384f781",
             "name": "Wrapped BTC",
             "symbol": "WBTC",
             "chainId": 2522,
@@ -212,8 +212,8 @@
         }
     ],
     "version": {
-        "major": 2,
-        "minor": 3,
-        "patch": 5
+        "major": 3,
+        "minor": 0,
+        "patch": 0
     }
 }
