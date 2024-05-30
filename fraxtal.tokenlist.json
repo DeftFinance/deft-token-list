@@ -107,7 +107,7 @@
             "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_sfrxETH.png"
         },
         {
-            "address": "0xdf426C781FaE46640ea4E99BE1E3B5eaba1A5447",
+            "address": "0xfc00000000000000000000000000000000000006",
             "name": "Wrapped Frax Ether",
             "symbol": "wfrxETH",
             "chainId": 2522,

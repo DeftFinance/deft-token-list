@@ -5,7 +5,6 @@
   ["Frax", "FRAX", 18, 1e4, 0],
   ["Frax Share", "FXS", 18, 1e4, 0],
   ["Staked Frax Ether", "sfrxETH", 18, 1e4, 0],
-  ["Wrapped Frax Ether", "wfrxETH", 18, 1e4, 0],
   ["Aave Token", "AAVE", 18, 1e4, 0],
   ["ApeCoin", "APE", 18, 1e4, 0],
   ["ChainLink Token", "LINK", 18, 1e4, 0],
