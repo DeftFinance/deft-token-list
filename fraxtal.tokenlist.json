@@ -113,6 +113,102 @@
             "chainId": 2522,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_wfrxETH.png"
+        },
+        {
+            "address": "0x454521dBa4eDC174B834210f1c0AbCC5CDb9458c",
+            "name": "Aave Token",
+            "symbol": "AAVE",
+            "chainId": 2522,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_AAVE.png"
+        },
+        {
+            "address": "0xD00f90a854024dD82D3DC2DE2936AF2d945Ea206",
+            "name": "ApeCoin",
+            "symbol": "APE",
+            "chainId": 2522,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_APE.png"
+        },
+        {
+            "address": "0xfebf644CcEB1c53aC189D9FE93F7B3E2Ef259ddf",
+            "name": "ChainLink Token",
+            "symbol": "LINK",
+            "chainId": 2522,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_LINK.png"
+        },
+        {
+            "address": "0xB3a9A30183e1d80d0CDA917D73a8103c5e1EC6F1",
+            "name": "Compound",
+            "symbol": "COMP",
+            "chainId": 2522,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_COMP.png"
+        },
+        {
+            "address": "0xc1cE9B0a3B9e9a84816e6a7A63716Da41a8fCbBa",
+            "name": "Dai Stablecoin",
+            "symbol": "DAI",
+            "chainId": 2522,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_DAI.png"
+        },
+        {
+            "address": "0x6023215Fdbd33DaEe3972a0696d87a204279EF18",
+            "name": "Graph Token",
+            "symbol": "GRT",
+            "chainId": 2522,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_GRT.png"
+        },
+        {
+            "address": "0xcE2d2b4d5D4BE028D252FF4569F07722F062D4bF",
+            "name": "SHIBA INU",
+            "symbol": "SHIB",
+            "chainId": 2522,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_SHIB.png"
+        },
+        {
+            "address": "0x20a49923B325F75150aE6bbC1Fa9f11b746a0971",
+            "name": "Synthetix Network Token",
+            "symbol": "SNX",
+            "chainId": 2522,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_SNX.png"
+        },
+        {
+            "address": "0x0350767a1931328F0d24d9320bDc1BD404522E5b",
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "chainId": 2522,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_USDT.png"
+        },
+        {
+            "address": "0xB643bb8D50D978B03B8790e8Ef58e4Eb4d8e7f2D",
+            "name": "Uniswap",
+            "symbol": "UNI",
+            "chainId": 2522,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_UNI.png"
+        },
+        {
+            "address": "0x904C236F8984F52FE10c17AfB09F1640D2477e65",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "chainId": 2522,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_USDC.png"
+        },
+        {
+            "address": "0xd1D471943de83Ace61cD99e68428783b90b2fc89",
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "chainId": 2522,
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_WBTC.png"
         }
     ],
     "version": {
