@@ -209,11 +209,19 @@
             "chainId": 2522,
             "decimals": 8,
             "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_WBTC.png"
+        },
+        {
+            "address": "0xF3F192db97C3EbB72AA261f1cE0b62A5c5344F21",
+            "name": "Deft Token",
+            "symbol": "DEFT",
+            "chainId": 2522,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_DEFT.png"
         }
     ],
     "version": {
         "major": 3,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     }
 }
