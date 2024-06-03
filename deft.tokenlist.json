@@ -15,7 +15,7 @@
             "symbol": "FPI",
             "chainId": 252,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/DeftFinance/deft-tokenlist/main/assets/asset_FPI.png"
+            "logoURI": "https://raw.githubusercontent.com/DeftFinance/deft-token-list/main/assets/asset_FPI.png"
         },
         {
             "address": "0xfc00000000000000000000000000000000000004",
