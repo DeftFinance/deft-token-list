@@ -2,9 +2,9 @@
     "name": "Deft Finance",
     "logoURI": "https://raw.githubusercontent.com/DeftFinance/deft-token-list/fraxtal-dev/assets/deft-logo.png",
     "keywords": [
+        "deft",
         "fraxtal",
         "dex",
-        "swap",
         "game"
     ],
     "timestamp": "2024-01-01T00:00:00.000+00:00",
