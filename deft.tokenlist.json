@@ -1,6 +1,6 @@
 {
     "name": "Deft Finance",
-    "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/deft-logo.png",
+    "logoURI": "https://raw.githubusercontent.com/DeftFinance/deft-token-list/fraxtal-dev/assets/deft-logo.png",
     "keywords": [
         "fraxtal",
         "dex",
@@ -15,7 +15,7 @@
             "symbol": "FPI",
             "chainId": 252,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_FPI.png"
+            "logoURI": "https://raw.githubusercontent.com/DeftFinance/deft-token-list/fraxtal-dev/assets/FPI.png"
         },
         {
             "address": "0xfc00000000000000000000000000000000000004",
@@ -23,7 +23,7 @@
             "symbol": "FPIS",
             "chainId": 252,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_FPIS.png"
+            "logoURI": "https://raw.githubusercontent.com/DeftFinance/deft-token-list/fraxtal-dev/assets/FPIS.png"
         },
         {
             "address": "0xfc00000000000000000000000000000000000001",
@@ -31,7 +31,7 @@
             "symbol": "FRAX",
             "chainId": 252,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_FRAX.png"
+            "logoURI": "https://raw.githubusercontent.com/DeftFinance/deft-token-list/fraxtal-dev/assets/FRAX.png"
         },
         {
             "address": "0xfc00000000000000000000000000000000000002",
@@ -39,7 +39,7 @@
             "symbol": "FXS",
             "chainId": 252,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_FXS.png"
+            "logoURI": "https://raw.githubusercontent.com/DeftFinance/deft-token-list/fraxtal-dev/assets/FXS.png"
         },
         {
             "address": "0xfc00000000000000000000000000000000000008",
@@ -47,7 +47,7 @@
             "symbol": "sFRAX",
             "chainId": 252,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_sFRAX.png"
+            "logoURI": "https://raw.githubusercontent.com/DeftFinance/deft-token-list/fraxtal-dev/assets/sFRAX.png"
         },
         {
             "address": "0xfc00000000000000000000000000000000000005",
@@ -55,7 +55,7 @@
             "symbol": "sfrxETH",
             "chainId": 252,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_sfrxETH.png"
+            "logoURI": "https://raw.githubusercontent.com/DeftFinance/deft-token-list/fraxtal-dev/assets/sfrxETH.png"
         },
         {
             "address": "0xfc00000000000000000000000000000000000006",
@@ -63,7 +63,7 @@
             "symbol": "wfrxETH",
             "chainId": 252,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_wfrxETH.png"
+            "logoURI": "https://raw.githubusercontent.com/DeftFinance/deft-token-list/fraxtal-dev/assets/wfrxETH.png"
         },
         {
             "address": "0x69732229E581B184906BD890bCe904b1C8bD6271",
@@ -71,7 +71,7 @@
             "symbol": "FPI",
             "chainId": 2522,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_FPI.png"
+            "logoURI": "https://raw.githubusercontent.com/DeftFinance/deft-token-list/fraxtal-dev/assets/FPI.png"
         },
         {
             "address": "0xacAF3Dd0EFeB5adCB2dd62813919d83D9BE83f61",
@@ -79,7 +79,7 @@
             "symbol": "FPIS",
             "chainId": 2522,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_FPIS.png"
+            "logoURI": "https://raw.githubusercontent.com/DeftFinance/deft-token-list/fraxtal-dev/assets/FPIS.png"
         },
         {
             "address": "0x457b64ee964B62DEB8fD8F0cf007B3BA40Ca7599",
@@ -87,7 +87,7 @@
             "symbol": "FRAX",
             "chainId": 2522,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_FRAX.png"
+            "logoURI": "https://raw.githubusercontent.com/DeftFinance/deft-token-list/fraxtal-dev/assets/FRAX.png"
         },
         {
             "address": "0x8a0f479b4FF743eEb75A0E8622508c4FfD002A10",
@@ -95,7 +95,7 @@
             "symbol": "FXS",
             "chainId": 2522,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_FXS.png"
+            "logoURI": "https://raw.githubusercontent.com/DeftFinance/deft-token-list/fraxtal-dev/assets/FXS.png"
         },
         {
             "address": "0x9e7Cc842C1710F99c0DF9bF2CCfe9CFDA50E3203",
@@ -103,7 +103,7 @@
             "symbol": "sfrxETH",
             "chainId": 2522,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_sfrxETH.png"
+            "logoURI": "https://raw.githubusercontent.com/DeftFinance/deft-token-list/fraxtal-dev/assets/sfrxETH.png"
         },
         {
             "address": "0xfc00000000000000000000000000000000000006",
@@ -111,7 +111,7 @@
             "symbol": "wfrxETH",
             "chainId": 2522,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_wfrxETH.png"
+            "logoURI": "https://raw.githubusercontent.com/DeftFinance/deft-token-list/fraxtal-dev/assets/wfrxETH.png"
         },
         {
             "address": "0x088701344802dC1c7B4b11C780c1b83eeC5191ff",
@@ -119,7 +119,7 @@
             "symbol": "AAVE",
             "chainId": 2522,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_AAVE.png"
+            "logoURI": "https://raw.githubusercontent.com/DeftFinance/deft-token-list/fraxtal-dev/assets/AAVE.png"
         },
         {
             "address": "0xF24588383A4B684F78a9acFED1A2f55c2e3f0b3f",
@@ -127,7 +127,7 @@
             "symbol": "APE",
             "chainId": 2522,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_APE.png"
+            "logoURI": "https://raw.githubusercontent.com/DeftFinance/deft-token-list/fraxtal-dev/assets/APE.png"
         },
         {
             "address": "0xD5FAC8c1580E805196d5fC96b677De3F7D4d31eE",
@@ -135,7 +135,7 @@
             "symbol": "LINK",
             "chainId": 2522,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_LINK.png"
+            "logoURI": "https://raw.githubusercontent.com/DeftFinance/deft-token-list/fraxtal-dev/assets/LINK.png"
         },
         {
             "address": "0x5EC60e812969de6a09feA51a3942f44F39032DFB",
@@ -143,7 +143,7 @@
             "symbol": "COMP",
             "chainId": 2522,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_COMP.png"
+            "logoURI": "https://raw.githubusercontent.com/DeftFinance/deft-token-list/fraxtal-dev/assets/COMP.png"
         },
         {
             "address": "0x8f7449B5D3c064f8Ccca8600996c6a41fb0b1863",
@@ -151,7 +151,7 @@
             "symbol": "DAI",
             "chainId": 2522,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_DAI.png"
+            "logoURI": "https://raw.githubusercontent.com/DeftFinance/deft-token-list/fraxtal-dev/assets/DAI.png"
         },
         {
             "address": "0xBe59DDE3DA45d55a6a915D70245A46827a89f8a7",
@@ -159,7 +159,7 @@
             "symbol": "GRT",
             "chainId": 2522,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_GRT.png"
+            "logoURI": "https://raw.githubusercontent.com/DeftFinance/deft-token-list/fraxtal-dev/assets/GRT.png"
         },
         {
             "address": "0x3B255258426841D38141B940A7c9D4f52c1BAA8F",
@@ -167,7 +167,7 @@
             "symbol": "SHIB",
             "chainId": 2522,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_SHIB.png"
+            "logoURI": "https://raw.githubusercontent.com/DeftFinance/deft-token-list/fraxtal-dev/assets/SHIB.png"
         },
         {
             "address": "0xa8156e98400aeBE2b0b10c19DD2dB59c2c1F236a",
@@ -175,7 +175,7 @@
             "symbol": "SNX",
             "chainId": 2522,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_SNX.png"
+            "logoURI": "https://raw.githubusercontent.com/DeftFinance/deft-token-list/fraxtal-dev/assets/SNX.png"
         },
         {
             "address": "0xAB58f1a9f58cc1F2d12e2Ef88C2aaFfd466b4bf9",
@@ -183,7 +183,7 @@
             "symbol": "USDT",
             "chainId": 2522,
             "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_USDT.png"
+            "logoURI": "https://raw.githubusercontent.com/DeftFinance/deft-token-list/fraxtal-dev/assets/USDT.png"
         },
         {
             "address": "0xed0592651Db3118356871f8b6D0594d05C8d385E",
@@ -191,7 +191,7 @@
             "symbol": "UNI",
             "chainId": 2522,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_UNI.png"
+            "logoURI": "https://raw.githubusercontent.com/DeftFinance/deft-token-list/fraxtal-dev/assets/UNI.png"
         },
         {
             "address": "0x0EEf77c3c08E84Fd7886489889217BA6A005cF5a",
@@ -199,7 +199,7 @@
             "symbol": "USDC",
             "chainId": 2522,
             "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_USDC.png"
+            "logoURI": "https://raw.githubusercontent.com/DeftFinance/deft-token-list/fraxtal-dev/assets/USDC.png"
         },
         {
             "address": "0xc12Ee52aB87dC4Ac0DA46cAA65259D4C2384f781",
@@ -207,7 +207,7 @@
             "symbol": "WBTC",
             "chainId": 2522,
             "decimals": 8,
-            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_WBTC.png"
+            "logoURI": "https://raw.githubusercontent.com/DeftFinance/deft-token-list/fraxtal-dev/assets/WBTC.png"
         },
         {
             "address": "0xF3F192db97C3EbB72AA261f1cE0b62A5c5344F21",
@@ -215,7 +215,7 @@
             "symbol": "DEFT",
             "chainId": 2522,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/farajioranj/fraxtal-tokenlist/fraxtal-dev/assets/asset_DEFT.png"
+            "logoURI": "https://raw.githubusercontent.com/DeftFinance/deft-token-list/fraxtal-dev/assets/DEFT.png"
         }
     ],
     "version": {
